@@ -4,6 +4,7 @@ I truly hope you can learn something from them.
 
 
   Class Professor: Leocundo Aguilar Noriega.
+  
   Lab Professor: Raul Ignacio Navarro Almanza.
 
 UABC/FCQI
