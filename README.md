@@ -9,4 +9,4 @@ Professor:
   Lab: Raul Ignacio Navarro Almanza.
 
 UABC/FCQI
-Semester: 2016-2
+Semester: 2017-2
